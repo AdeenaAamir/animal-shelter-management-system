@@ -17,9 +17,3 @@ Animal Shelter Management System is a relational database project developed to m
 - SQL schema files
 - SQL query files
 - Documentation
-
-## Run Locally
-Import the SQL schema into MySQL and run the provided queries to test database functionality.
-
-## Screenshots
-Add screenshots of database schema, tables, and sample query outputs here.
